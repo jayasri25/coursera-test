@@ -61,19 +61,19 @@ h1{
 	
 	color:black;
 	font-size:100%;
-	border-color: black;
-	border-top:0.5px solid;
-	border-left:0.5px solid;
-	border-bottom:0.5px solid;
-	border-right: 0.5px solid;
+	border-top:0.5px solid black;
+	border-left:0.5px solid black;
+	border-bottom:0.5px solid black;
+	border-right: 0.5px solid black;
 	padding-top:8px;
 	text-align: center;
 	margin-left: 77.2%;
 	margin-bottom: 15px;
 	padding-bottom: 8px;
-	width:25%;
+	width:24.5%;
 	height:20%;
 	background-color: #F9E4B7;
+	float:left;
 
 }
 section{
@@ -87,10 +87,10 @@ section{
 	position: relative;
 	margin:12px;
 	padding-left:10px;
-	padding-right: 9px;
+	padding-right: 10px;
 	padding-bottom: 10px;
 	position: relative;
-	/*clear: margin;*/
+	clear: margin;
 	
 }
 .row{
